@@ -8,3 +8,5 @@ def sum(a,b):
 
 def diff(a,b):
     return a-b
+
+print("Podi patti ravitha")
