@@ -5,3 +5,6 @@ print('sample file')
 
 def sum(a,b):
     print(a+b)
+
+def diff(a,b):
+    return a-b
